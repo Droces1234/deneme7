@@ -1,0 +1,10 @@
+C:\Users\Windows10\source\repos\kayit deft\kayit deft\bin\Debug\kayit deft.exe.config
+C:\Users\Windows10\source\repos\kayit deft\kayit deft\bin\Debug\kayit deft.exe
+C:\Users\Windows10\source\repos\kayit deft\kayit deft\bin\Debug\kayit deft.pdb
+C:\Users\Windows10\source\repos\kayit deft\kayit deft\obj\Debug\kayit deft.csprojAssemblyReference.cache
+C:\Users\Windows10\source\repos\kayit deft\kayit deft\obj\Debug\kayit_deft.Form1.resources
+C:\Users\Windows10\source\repos\kayit deft\kayit deft\obj\Debug\kayit_deft.Properties.Resources.resources
+C:\Users\Windows10\source\repos\kayit deft\kayit deft\obj\Debug\kayit deft.csproj.GenerateResource.cache
+C:\Users\Windows10\source\repos\kayit deft\kayit deft\obj\Debug\kayit deft.csproj.CoreCompileInputs.cache
+C:\Users\Windows10\source\repos\kayit deft\kayit deft\obj\Debug\kayit deft.exe
+C:\Users\Windows10\source\repos\kayit deft\kayit deft\obj\Debug\kayit deft.pdb
